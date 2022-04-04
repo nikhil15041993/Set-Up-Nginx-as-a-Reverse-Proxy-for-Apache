@@ -49,3 +49,19 @@ Apply your changes by reloading Nginx.
 ```
 systemctl reload nginx
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+for more refer
+
+https://www.scaleway.com/en/docs/tutorials/nginx-reverse-proxy/
